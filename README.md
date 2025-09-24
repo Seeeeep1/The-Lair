@@ -11,12 +11,12 @@ The first trial awaits. The quest for knowledge begins now.
 
 <h6> -----ALL HAIL MAROON AND GOLD-----</h6>
 
-#This Game is all about Role Playing Game (RPG)
+This Game is all about Role Playing Game (RPG)
 ...a game where players assume the roles of characters in a fictional setting, taking responsibility for acting out these roles within a narrative, either through decision-making or literal acting.
 
-# Player Selectable (1 at a time) before the story/roleplay to begin.
-# Needs Logic and High Mechanics in the Game.
-# This Game also included a lot of stuff we think of as part of videogame RPGs, like leveling, inventory management, party based stories, etc.
+[] Player Selectable (1 at a time) before the story/roleplay to begin.
+[] Needs Logic and High Mechanics in the Game.
+[] This Game also included a lot of stuff we think of as part of videogame RPGs, like leveling, inventory management, party based stories, etc.
 
 <h6>History</h6>
-# Lair way boot
+Lair way boot
