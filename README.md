@@ -14,8 +14,8 @@ The first trial awaits. The quest for knowledge begins now.
 This Game is all about Role Playing Game (RPG)
 ...a game where players assume the roles of characters in a fictional setting, taking responsibility for acting out these roles within a narrative, either through decision-making or literal acting.
 
-[] Player Selectable (1 at a time) before the story/roleplay to begin.
-[] Needs Logic and High Mechanics in the Game.
+[] Player Selectable (1 at a time) before the story/roleplay to begin.<br>
+[] Needs Logic and High Mechanics in the Game.<br>
 [] This Game also included a lot of stuff we think of as part of videogame RPGs, like leveling, inventory management, party based stories, etc.
 
 <h6>History</h6>
