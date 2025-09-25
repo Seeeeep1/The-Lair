@@ -11,7 +11,7 @@ The first trial awaits. The quest for knowledge begins now.
 
 <h6> -----ALL HAIL MAROON AND GOLD-----</h6>
 
-This Game is all about Role Playing Game (RPG)
+This Game is all about Role Playing Game (RPG)<br>
 ...a game where players assume the roles of characters in a fictional setting, taking responsibility for acting out these roles within a narrative, either through decision-making or literal acting.
 
 [] Player Selectable (1 at a time) before the story/roleplay to begin.<br>
